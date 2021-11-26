@@ -19,7 +19,7 @@ essa linha teve que ser comentada, pois com ela, o programa não rodava. o erro 
 App de séries/Series-LGBTQIA/Program.cs(115,100): error CS0266: Não é possível converter implicitamente tipo "object" em "bool". Existe uma conversão explícita (há uma conversão ausente?)
 Como tive que comentar essa linha, o programa só deixa cadastrar séries e não pode listar  -->
 
-Era um erro rque ocorria por conte de ausencia de código na parte de métodos do arquivo Serie.cs
+Era um erro que ocorria por conta de ausência de código na parte de métodos do arquivo Serie.cs
 
 ### Erro 2
 
